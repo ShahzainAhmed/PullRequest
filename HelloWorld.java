@@ -4,7 +4,15 @@ class HelloWorld {
         System.out.print(i+1,"Line number ");
         System.out.println("Hello World"); 
         }
+        
+        int i=0;
+            while (i<50){
+        System.out.print(i+1,"Line number ");
+        System.out.println("Hello World"); 
+        }i++
                    
+        
+    }            
         
     }
 }
